@@ -1,0 +1,5 @@
+github.com/pkg/diff v0.0.0-20190930165518-531926345625 h1:b5m9ubdpxvfhiJnF64/W1rUTSUOzKHipjy5wOWsZCBM=
+github.com/pkg/diff v0.0.0-20190930165518-531926345625/go.mod h1:kFj35MyHn14a6pIgWhm46KVjJr5CHys3eEYxkuKD1EI=
+github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
+github.com/yaegashi/contest.go v0.0.0-20191221215856-67a0160d4893 h1:tVsOOhEiZhF4cay+HMChsJlDnard4qZgV8pmdBCoC4c=
+github.com/yaegashi/contest.go v0.0.0-20191221215856-67a0160d4893/go.mod h1:mwDH7jZ098R11ireJm7vHt14rEHARZAiue26nAvW5yk=
