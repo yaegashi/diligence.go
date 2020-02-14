@@ -9,3 +9,7 @@ https://atcoder.jp/contests/abc052
 ## B
 
 - https://atcoder.jp/contests/abc052/submissions/10085276
+
+## C
+
+- https://atcoder.jp/contests/abc052/submissions/10088974
