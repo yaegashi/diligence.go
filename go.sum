@@ -17,6 +17,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/yaegashi/contest.go v0.0.0-20191221215856-67a0160d4893 h1:tVsOOhEiZhF4cay+HMChsJlDnard4qZgV8pmdBCoC4c=
 github.com/yaegashi/contest.go v0.0.0-20191221215856-67a0160d4893/go.mod h1:mwDH7jZ098R11ireJm7vHt14rEHARZAiue26nAvW5yk=
+github.com/yaegashi/contest.go v0.0.0-20191224122100-03939dca2ae1 h1:OS+Aq/cVgFxxlonmOgVwIMmPgtDjQRZvB92sGX66h2g=
+github.com/yaegashi/contest.go v0.0.0-20191224122100-03939dca2ae1/go.mod h1:mwDH7jZ098R11ireJm7vHt14rEHARZAiue26nAvW5yk=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

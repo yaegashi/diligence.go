@@ -7,6 +7,6 @@ require (
 	github.com/kr/pty v1.1.8 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/yaegashi/contest.go v0.0.0-20191221215856-67a0160d4893
+	github.com/yaegashi/contest.go v0.0.0-20191224122100-03939dca2ae1
 	gopkg.in/yaml.v2 v2.2.7 // indirect
 )
