@@ -1,0 +1,13 @@
+2
+5
+*CONUTS
+*COCONUTS
+*OCONUTS
+*CONUTS
+*S
+2
+*XZ
+*XYZ
+--
+Case #1: COCONUTS
+Case #2: *
