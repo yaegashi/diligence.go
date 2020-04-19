@@ -1,0 +1,10 @@
+4
+2 3
+-2 -3
+3 0
+-1 1
+--
+Case #1: SEN
+Case #2: NWS
+Case #3: EE
+Case #4: IMPOSSIBLE
