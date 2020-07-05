@@ -1,6 +1,6 @@
 module github.com/yaegashi/diligence.go
 
-go 1.12
+go 1.14
 
 require (
 	github.com/sergi/go-diff v1.1.0 // indirect
