@@ -2,7 +2,7 @@ package main
 
 const mod = 1e9 + 7
 
-func powmod(a, m int) int {
+func powMod(a, m int) int {
 	b := 1
 	for m > 0 {
 		if m&1 != 0 {
@@ -14,12 +14,12 @@ func powmod(a, m int) int {
 	return b
 }
 
-func combmod(n, r int) int {
+func combMod(n, r int) int {
 	c := 1
 	for i := 0; i < r; i++ {
 		c *= n - i
 		c %= mod
-		c *= powmod(i+1, mod-2)
+		c *= powMod(i+1, mod-2)
 		c %= mod
 	}
 	return c
